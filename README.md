@@ -41,6 +41,16 @@ This project uses Microsoft Power BI to transform car sales data into interactiv
 
 `Car_Sales_Dashboard_Final.pbix`
 
+## Dashboard Preview
+
+### Page 1 — Overview
+
+![Car Sales Dashboard Overview](Car_Sales_Overview.png)
+
+### Page 2 — Details
+
+![Car Sales Dashboard Details](Car_Sales_Details.png)
+
 Download the file and open it using Microsoft Power BI Desktop to explore the interactive dashboard.
 
 ## Project Purpose
